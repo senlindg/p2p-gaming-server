@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+
+# logs
+npm-debug.log
+logs
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist205.106.177 imagick.weshine.im
